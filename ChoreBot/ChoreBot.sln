@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoreBot", "ChoreBot.csproj", "{D7A6D26C-B433-4067-9E78-E5DD9E6811AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A6D26C-B433-4067-9E78-E5DD9E6811AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A6D26C-B433-4067-9E78-E5DD9E6811AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A6D26C-B433-4067-9E78-E5DD9E6811AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A6D26C-B433-4067-9E78-E5DD9E6811AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05813915-315D-4F49-96D4-DF5658677CF3}
+	EndGlobalSection
+EndGlobal
